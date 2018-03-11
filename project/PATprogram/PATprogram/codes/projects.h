@@ -1,0 +1,13 @@
+#pragma once
+#include <stdio.h>
+#include <stdlib.h>
+void callatz();//1001
+void numberAdd();//1002
+void iWantToPass();//1003
+void ranking();//1004
+void callatz2();//1005
+void transform();//1006
+void primePairCounter();//1007
+void arrayRigthShift();//1008
+void reverseSentence();//1009
+void polynomialDerivation();//1010
